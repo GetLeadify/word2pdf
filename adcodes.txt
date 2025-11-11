@@ -1,0 +1,6 @@
+Snippet 1 (Popunder): <script type='text/javascript' src='//pl28033350.effectivegatecpm.com/ad/b9/7a/adb97ac38b39de73458adf6cc40e3458.js'></script>
+
+Snippet 2 (Social Bar): <script type='text/javascript' src='//pl28033375.effectivegatecpm.com/b7/76/0c/b7760cb5d2dd3ac1d9c9a2ba6c7233c5.js'></script>
+
+Snippet 3 (Native Banner): <script async="async" data-cfasync="false" src="//pl28033364.effectivegatecpm.com/238cabed6297183451bd69cd192ab08b/invoke.js"></script>
+<div id="container-238cabed6297183451bd69cd192ab08b"></div>
